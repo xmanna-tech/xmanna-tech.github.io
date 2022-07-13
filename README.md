@@ -1,1 +1,2 @@
 # privacypolicy-xmanna
+# xmanna-eula
